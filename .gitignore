@@ -1,0 +1,13 @@
+/.vscode
+/__pycache__
+/libevent-2.1.12-stable
+/libevent-2.1.12-stable.tar.gz
+/memcached-1.1.0_downloads.xml
+/memcached-1.6.18
+/memcached-1.6.18.tar.gz
+/memtier_benchmark-1.4.0
+/memtier_benchmark-1.4.0.tar.gz
+/speedtest1
+/sqlite
+/sqlite-330-for-speedtest.tar.gz
+/venv
